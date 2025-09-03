@@ -1,11 +1,25 @@
-- 👋 Hi, I’m @Anmol
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python,Java,C
-- 💞️ I’m looking to collaborate on ....
-- 📫 How to reach me : anmol52490@gmail.com
-  
+<!-- README.md - Minimal & Honest -->
 
-<!---
-anmol52490/anmol52490 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h1 align="center">Hi 👋 I'm Anmol</h1>
+<p align="center">Data Scientist • Working on Transformers • ❤️ Python • I solve real-world problems</p>
+
+---
+
+### About
+- 🔭 Domain: **Data Science**  
+- ⚙️ Currently: **Working on transformers**  experimenting with model fine-tuning & inference pipelines.  
+- 🐍 Favorite language: **Python**  
+- 💡 I enjoy solving applied, real-world problems  simple, useful, and reproducible.
+
+---
+
+### Quick links
+- Email: **anmol52490@gmail.com**  
+- GitHub: `https://github.com/anmol52490`  
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=anmol52490&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
