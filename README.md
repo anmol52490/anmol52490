@@ -1,14 +1,14 @@
 <!-- README.md - Minimal & Honest -->
 
-<h1 align="center">Hi 👋 I'm Anmol</h1>
-<p align="center">Data Scientist • Working on Transformers • ❤️ Python • I solve real-world problems</p>
+<h1 align="center">Hi 👋 I'm Manjil</h1>
+<p align="center">Data Scientist • Working on Transformers and Computer Vision </p>
 
 ---
 
 ### About
 - 🔭 Domain: **Data Science**  
-- ⚙️ Currently: **Working on transformers**  experimenting with model fine-tuning & inference pipelines.  
-- 🐍 Favorite language: **Python**  
+- ⚙️ Currently: **Working on transformers**   
+- 🐍 Preferred language: **Python**  
 - 💡 I enjoy solving applied, real-world problems  simple, useful, and reproducible.
 
 ---
